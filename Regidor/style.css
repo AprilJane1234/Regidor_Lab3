@@ -1,0 +1,66 @@
+.container{
+    width: 120%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Border{
+    width: max-content;
+    height: max-content;
+    padding: 20px; 
+    margin: 20px;
+    border-top: 4px solid rgb(109, 35, 35);
+    border-left: 4px solid palevioletred;
+    border-right: 4px solid pink;
+    border-bottom: 4px solid rgb(109, 35, 35);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-left-style: double;
+    border-right-style: double;
+
+}
+.border-1{
+    width: 120px;
+    height: 200px;
+    padding: 30px;
+    margin: 30px;
+    border-top: 2px solid rgb(29, 131, 46);
+    border-right: 2px solid purple;
+    border-bottom: 2px solid black;
+    border-left: 2px solid pink ;
+}
+.border-2{
+    width: 120px;
+    height: 200px;
+    padding: 30px;
+    margin: 30px;
+    border-top: 2px solid rgb(23, 0, 226);
+    border-right: 2px solid yellow ;
+    border-bottom: 2px solid  rgb(70, 0, 12);
+    border-left: 2px solid purple;
+}
+.border-3{
+    width: 120px;
+    height: 200px;
+    padding: 30px;
+    margin: 30px;
+    border-top: 2px solid red;
+    border-right: 2px solid green;
+    border-bottom: 2px solid  orange;
+    border-left: 2px solid pink ;
+}
+.border-4{
+    width: 120px;
+    height: 200px;
+    padding: 30px;
+    margin: 30px;
+    border-top: 2px solid lightskyblue;
+    border-right: 2px solid blue;
+    border-bottom: 2px solid orangered;
+    border-left: 2px solid pink ;
+}
+
+
